@@ -1,0 +1,17 @@
+.transaction_history {
+  border-collapse: collapse;
+  width: 500px;
+  margin-left: 50px;
+}
+
+.table_head,
+.table_data {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  background-color: rgb(223, 251, 251);
+}
+
+.table_data {
+  background-color: azure;
+}
